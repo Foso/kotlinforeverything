@@ -32,8 +32,11 @@ extra:
 nav:
   - 'Kotlin For Everything':
       - 'Overview': index.md
-      - 'Javascript':
+      - 'KotlinJs':
            - 'Overview': javascript/overview.md
+           - 'Interop':
+               - 'Call Kotlin from JavaScript': javascript/interop/callkotlinfromjavascript.md
+               - 'Call JavaScript from Kotlin': javascript/interop/calljavascriptfromkotlin.md
       - 'iOS':
           - 'Overview': ios/overview.md
           - 'Debugging': ios/debugging.md
