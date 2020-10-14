@@ -32,6 +32,8 @@ extra:
 nav:
   - 'Kotlin For Everything':
       - 'Overview': index.md
+      - 'Multiplatform' :
+           - 'KMM Plugin' : multiplatform/kmmplugin.md
       - 'KotlinJs':
            - 'Overview': javascript/overview.md
            - 'Dynamic': javascript/dynamic.md
@@ -41,6 +43,7 @@ nav:
            - 'Debugging': javascript/debugging.md
       - 'iOS':
           - 'Overview': ios/overview.md
+          - 'Framework': ios/framework.md
           - 'Debugging': ios/debugging.md
 markdown_extensions:
   - smarty
