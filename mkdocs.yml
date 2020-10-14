@@ -34,6 +34,7 @@ nav:
       - 'Overview': index.md
       - 'KotlinJs':
            - 'Overview': javascript/overview.md
+           - 'Dynamic': javascript/dynamic.md
            - 'Interop':
                - 'Call Kotlin from JavaScript': javascript/interop/callkotlinfromjavascript.md
                - 'Call JavaScript from Kotlin': javascript/interop/calljavascriptfromkotlin.md
