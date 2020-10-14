@@ -38,6 +38,7 @@ nav:
            - 'Interop':
                - 'Call Kotlin from JavaScript': javascript/interop/callkotlinfromjavascript.md
                - 'Call JavaScript from Kotlin': javascript/interop/calljavascriptfromkotlin.md
+           - 'Debugging': javascript/debugging.md
       - 'iOS':
           - 'Overview': ios/overview.md
           - 'Debugging': ios/debugging.md
