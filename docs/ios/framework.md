@@ -3,7 +3,7 @@
 https://kotlinlang.org/docs/tutorials/native/apple-framework.html
 
 # Where is the compiled framework located?
-You can find the framework inside build/xcode-frameworks
+You can find the framework inside **build/xcode-frameworks**
 
 # How to set the framework name?
 

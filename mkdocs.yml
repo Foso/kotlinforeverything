@@ -33,14 +33,17 @@ nav:
   - 'Kotlin For Everything':
       - 'Overview': index.md
       - 'Multiplatform' :
+           - 'Gradle Plugin' : multiplatform/gradleplugin.md
            - 'KMM Plugin' : multiplatform/kmmplugin.md
       - 'KotlinJs':
-           - 'Overview': javascript/overview.md
-           - 'Dynamic': javascript/dynamic.md
+           - 'Overview': kotlinjs/overview.md
+           - 'js() Function': kotlinjs/jsfunction.md
+           - 'Dynamic': kotlinjs/dynamic.md
            - 'Interop':
-               - 'Call Kotlin from JavaScript': javascript/interop/callkotlinfromjavascript.md
-               - 'Call JavaScript from Kotlin': javascript/interop/calljavascriptfromkotlin.md
-           - 'Debugging': javascript/debugging.md
+               - 'Call Kotlin from kotlinjs': kotlinjs/interop/callkotlinfromjavascript.md
+               - 'Call JavaScript from Kotlin': kotlinjs/interop/calljavascriptfromkotlin.md
+           - 'Debugging': kotlinjs/debugging.md
+           - 'Dependencies': kotlinjs/dependencies.md
       - 'iOS':
           - 'Overview': ios/overview.md
           - 'Getting started': ios/getstarted.md
