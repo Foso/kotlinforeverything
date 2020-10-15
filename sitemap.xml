@@ -4,27 +4,39 @@
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://github.com/Foso/KotlinForEverything/multiplatform/gradleplugin/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://github.com/Foso/KotlinForEverything/multiplatform/kmmplugin/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://github.com/Foso/KotlinForEverything/javascript/overview/</loc>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/overview/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://github.com/Foso/KotlinForEverything/javascript/dynamic/</loc>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/jsfunction/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://github.com/Foso/KotlinForEverything/javascript/interop/callkotlinfromjavascript/</loc>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/dynamic/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://github.com/Foso/KotlinForEverything/javascript/interop/calljavascriptfromkotlin/</loc>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/interop/callkotlinfromjavascript/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://github.com/Foso/KotlinForEverything/javascript/debugging/</loc>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/interop/calljavascriptfromkotlin/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/debugging/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Foso/KotlinForEverything/kotlinjs/dependencies/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
