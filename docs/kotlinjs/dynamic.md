@@ -7,8 +7,12 @@ The type checker is turned off for values with a dynamic types.
 You can use the **dynamic** type like any other type.
 
 ```kotlin
- var testVar : dynamic
- var testArray = arrayOf<dynamic>();
+var testVar : dynamic
+var testArray = arrayOf<dynamic>();
+
+fun test(dynValue:dynamic){
+
+}
 ```
 
 ## Cast to dynamic
