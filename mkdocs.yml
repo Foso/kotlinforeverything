@@ -43,6 +43,7 @@ nav:
            - 'Debugging': javascript/debugging.md
       - 'iOS':
           - 'Overview': ios/overview.md
+          - 'Getting started': ios/getstarted.md
           - 'Framework': ios/framework.md
           - 'Debugging': ios/debugging.md
 markdown_extensions:
