@@ -34,7 +34,9 @@ nav:
       - 'Overview': index.md
       - 'Multiplatform' :
            - 'Gradle Plugin' : multiplatform/gradleplugin.md
+           - 'Expect/Actual' : multiplatform/expect.md
            - 'KMM Plugin' : multiplatform/kmmplugin.md
+
       - 'KotlinJs':
            - 'Overview': kotlinjs/overview.md
            - 'js() Function': kotlinjs/jsfunction.md

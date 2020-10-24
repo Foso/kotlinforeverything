@@ -26,7 +26,7 @@ In the toolbar above, select the **iosApp** Run Configuration and click on the d
 </p>
 
 ## Xcode
-You can select also debug your Kotlin Code inside of Xcode. This is possible with a Xcode plugin developed by Touchlab
+You can also debug your Kotlin Code inside of Xcode. This is possible with a Xcode plugin developed by Touchlab
 
 1) See the installation instruction from https://github.com/touchlab/xcode-kotlin
 
