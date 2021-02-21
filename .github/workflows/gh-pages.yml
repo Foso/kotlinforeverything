@@ -29,6 +29,8 @@ jobs:
         run: |
           cd codelab
           ./claat-linux-amd64 export codelab.md
+          cd ..
+          cp ./codelab/ ./site/codelab/ -r
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
