@@ -1,3 +1,3 @@
 # KotlinForEverything
 WIP
-https://foso.github.io/KotlinForEverything/
+https://foso.github.io/kotlinforeverything/
