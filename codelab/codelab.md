@@ -36,7 +36,7 @@ In order to create a CodeLab you need *Go* and *claat* (the codelabs command lin
 
 The instructions below are what worked for me on Mac, but you can also find instructions [here](https://github.com/googlecodelabs/tools/tree/master/claat) 
 
-## My Page
+## My Page2
 Duration: 0:04:00
 
 In order to create a CodeLab you need *Go* and *claat* (the codelabs command line tool) installed.
